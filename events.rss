@@ -1,0 +1,42 @@
+<rss version="2.0">
+    <channel>
+        <title>Seeka Events Feed</title>
+        <link>/Seeka/Events</link>
+        <description>Upcoming events hosted by Seeka</description>
+        <pubdate>1 May 2024</pubdate>
+        <lastbuilddate>1 May 2024 4:27:21 PM</lastbuilddate>
+        
+        <!-- Example Event 1 -->
+        <item>
+            <guid>event1</guid>
+            <title>Summer Festival</title>
+            <author>Seeka Events Team</author>
+            <link>https://seekaevents.com/summer-festival</link>
+            <source>Seeka Events</source>
+            <description>Date: May 15, 2024Description: Join us for a day of fun in the sun at our annual Summer Festival! Enjoy live music, delicious food, games, and more.</description>
+        </item>
+        
+        <!-- Example Event 2 -->
+        <item>
+            <guid>event2</guid>
+            <title>Charity Gala</title>
+            <author>Seeka Events Team</author>
+            <link>https://seekaevents.com/charity-gala</link>
+            <source>Seeka Events</source>
+            <description>Date: June 10, 2024Description: Join us for an elegant evening of dining, dancing, and fundraising at our annual Charity Gala. All proceeds will go to support local community initiatives.</description>
+        </item>
+        
+        <!-- Example Event 3 -->
+        <item>
+            <guid>event3</guid>
+            <title>Technology Conference</title>
+            <author>Seeka Events Team</author>
+            <link>https://seekaevents.com/tech-conference</link>
+            <source>Seeka Events</source>
+            <description>Date: September 20-22, 2024Description: Dive into the latest trends and innovations in technology at our annual Technology Conference. Network with industry leaders, attend informative sessions, and explore cutting-edge technologies.</description>
+        </item>
+        
+        <!-- Add more events as needed -->
+        
+    </channel>
+</rss>
