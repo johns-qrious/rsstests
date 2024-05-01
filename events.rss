@@ -14,7 +14,7 @@
             <link>https://seekaevents.com/summer-festival</link>
             <source>May 15, 2024, 12:00 pm</source>
             <pubdate>May 15, 2024, 12:00 pm</pubdate>
-            <description>Date: May 15, 2024Description: Join us for a day of fun in the sun at our annual Summer Festival! Enjoy live music, delicious food, games, and more.</description>
+            <description>Join us for a day of fun in the sun at our annual Summer Festival! Enjoy live music, delicious food, games, and more.</description>
         </item>
         
         <!-- Example Event 2 -->
@@ -25,7 +25,7 @@
             <link>https://seekaevents.com/charity-gala</link>
             <source>June 10, 2024, 12:00 pm</source>
             <pubdate>June 10, 2024, 12:00 pm</pubdate>
-            <description>Date: June 10, 2024Description: Join us for an elegant evening of dining, dancing, and fundraising at our annual Charity Gala. All proceeds will go to support local community initiatives.</description>
+            <description>Join us for an elegant evening of dining, dancing, and fundraising at our annual Charity Gala. All proceeds will go to support local community initiatives.</description>
         </item>
         
         <!-- Example Event 3 -->
@@ -36,7 +36,7 @@
             <link>https://seekaevents.com/tech-conference</link>
             <source>Seeka Events</source>
             <pubdate>September 20-22, 2024, 12:00-5:00pm</pubdate>
-            <description>Date: September 20-22, 2024Description: Dive into the latest trends and innovations in technology at our annual Technology Conference. Network with industry leaders, attend informative sessions, and explore cutting-edge technologies.</description>
+            <description>Dive into the latest trends and innovations in technology at our annual Technology Conference. Network with industry leaders, attend informative sessions, and explore cutting-edge technologies.</description>
         </item>
         
         <!-- Add more events as needed -->
